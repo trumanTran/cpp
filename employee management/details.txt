@@ -1,0 +1,10 @@
+10 anna 4/12/1989 609-12-2341 boss ceo
+3 bob 6/7/1980 111-12-1134 logistics manager
+1 carol 1/1/1989 987-123-1143 admin ceo
+2 dave 10/3/1974 902-22-8914 admin cfo
+17 erin 6/13/1991 126-83-1942 technology supervisor
+15 frank 2/22/1987 303-12-1122 logistics assistant
+20 jimmy 2/22/1927 304-11-1122 logistics funlord
+33 frank 6/13/1991 126-83-1942 technology supervisor
+199 truman 9/30/1989 303-33-1122 logistics assistant
+66 jimmy 2/22/1927 901-19-1122 logistics funlord
